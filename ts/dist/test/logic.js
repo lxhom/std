@@ -1,0 +1,34 @@
+// noinspection JSUnusedLocalSymbols
+let T = null;
+var LogicTest;
+(function (LogicTest) {
+    let is1 = T;
+    let is2 = T;
+    let is3 = T;
+    let is21 = T;
+    let is22 = T;
+    let is23 = T;
+    let is4 = T;
+    let is5 = T;
+    let iis1 = T;
+    let iis2 = T;
+    let iis3 = T;
+    let iis21 = T;
+    let iis22 = T;
+    let iis23 = T;
+    let iis4 = T;
+    let iis5 = T;
+    let is_any1 = T;
+    let is_any2 = T;
+    let if1 = T;
+    let if2 = T;
+    let exf1 = T;
+    let exf2 = T;
+    let in1 = T;
+    let in2 = T;
+    let ex1 = T;
+    let ex2 = T;
+    let ex3 = T;
+    let ex4 = T;
+})(LogicTest || (LogicTest = {}));
+export {};

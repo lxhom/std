@@ -1,7 +1,7 @@
 {
-  "name": "@lxstd/i8",
+  "name": "@lxstd/svelte",
   "version": "1.0.0",
-  "description": "i18n",
+  "description": "Utils for Svelte (not Kit!)",
   "keywords": [
     "lxstd"
   ],
@@ -19,7 +19,6 @@
   "files": [
     "dist/"
   ],
-  "type": "module",
   "scripts": {
     "build": "npm run clean && tsc",
     "clean": "(rm -r ./dist || true)",
@@ -33,6 +32,7 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "enquirer": "^2.3.6"
+    "enquirer": "^2.3.6",
+    "svelte": "^3.56.0"
   }
 }
